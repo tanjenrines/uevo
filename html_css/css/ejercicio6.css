@@ -1,0 +1,101 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+
+.todos{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+
+
+
+
+
+
+#pantone1{
+    height: 275px;
+    width: 255px;
+    background-color: #9f99d1;
+}
+
+
+
+
+
+#pantone2{
+    height: 275px;
+    width: 255px;
+    background-color: #4ebca6;
+}
+
+
+
+
+#pantone3{
+    height: 275px;
+    width: 255px;
+    background-color: #efb1b5;
+}
+
+
+
+#pantone4{
+    height: 275px;
+    width: 255px;
+    background-color: #ffbb80;
+}
+
+
+
+#pantone5{
+    height: 275px;
+    width: 255px;
+    background-color: #ffdb8e;
+}
+
+
+
+
+#pantone6{
+    height: 275px;
+    width: 255px;
+    background-color: #ffdb8e;
+}
+
+
+
+#pantone7{
+    height: 275px;
+    width: 255px;
+    background-color: palegreen;
+}
+
+
+
+#pantone8{
+    height: 275px;
+    width: 255px;
+    background-color: pink;
+}
+
+
+
+
+
+#pantone9{
+    height: 275px;
+    width: 255px;
+    background-color: lightblue;
+}
+
+
+
+#pantone10{
+    height: 275px;
+    width: 255px;
+    background-color: #abd094;
+}
